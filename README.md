@@ -19,3 +19,21 @@ We use a **LSTM Neural Network**, combined with **Google´s Tesseract OCR Engine
 The network is pre-trained with 400.000 individual characters in over 100 languages.
 In this other example, the *randomness* of the CAPTCHA generator is much bigger than the one in the previous example. 
 Therefore, it must be more secure. Nevertheless, using our Neural Network, we prove it solves the CAPTCHA 92% of the time.
+
+## Project Requirements
+To fully test the project, you might need to install some required packages. Please start by downloading **Anaconda** using the following link: [Download Anaconda](https://www.continuum.io/downloads). Once installed, clone this repository and access the downloaded folder through a **terminal** window. Next, you need to install the required packages:
+
+    $ conda env create -f pmateoCAPTCHA.yml
+    
+Once all the packages have been installed, activate the environment:
+
+    $ source activate pmateoCAPTCHAS
+    
+Once finished, you can check the Jupyter Notebooks I have created
+
+     (pmateoCAPTCHAS)$ jupyter notebook
+    
+There are 2 Jupyter Notebook Files to check:
+  - HackingCAPTCHAS_MachineLearning.ipynb
+  - HackingCAPTCHAsPreTrained.ipynb
+     
