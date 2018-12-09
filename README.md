@@ -21,7 +21,7 @@ In this other example, the *randomness* of the CAPTCHA generator is much bigger 
 Therefore, it must be more secure. Nevertheless, using our Neural Network, we prove it solves the CAPTCHA 92% of the time.
 
 ## Project Requirements
-To fully test the project, you might need to install some required packages. Please start by downloading **Anaconda** using the following link: [Download Anaconda](https://www.continuum.io/downloads). Once installed, clone this repository and access the downloaded folder through a **terminal** window. Next, you need to install the required packages:
+To fully test the project, you might need to install some required packages. Please start by downloading **Anaconda** using the following link: [Download Anaconda](https://www.anaconda.com/download/). Once installed, clone this repository and access the downloaded folder through a **terminal** window. Next, you need to install the required packages:
 
     $ conda env create -f pmateoCAPTCHA.yml
     
