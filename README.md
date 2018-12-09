@@ -1,6 +1,6 @@
 # captchaSolver
 Solving CAPTCHAs using 2 different Neural Networks (Pre-Trained and Self-Trained).
-Captcha Solver is an exercise for CICE´s **Ethical Hacking Masters Degree - EC-Council & CompTIA. MSI**.
+Captcha Solver is an exercise for **CICE´s Ethical Hacking Masters Degree - EC-Council & CompTIA. MSI**.
 
 ## Idea
 Explanation of different methods using **Machine Learning** to solve some CAPTCHA security measures.
